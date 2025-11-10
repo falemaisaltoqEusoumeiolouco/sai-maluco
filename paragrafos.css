@@ -1,0 +1,43 @@
+
+p{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: yellow;
+    text-decoration-thickness: 0.2em;
+    text-align: uppercase;
+    text-indent: 3em;
+    text-shadow: 1px 1px 2px red;
+}
+
+#p2{
+    text-align: center;
+}
+
+#p3{
+    text-align: left;
+}
+#p4{
+    text-align: left ;
+}
+
+#p5{
+    text-align: left;
+}
+#p6{
+    text-align: left;
+}
+
+#p7{
+    text-align: left;
+}
+#p8{
+    text-align: left;
+}
+
+#p9{
+    text-align: left;
+}
+#p10{
+    text-align: left;
+}
